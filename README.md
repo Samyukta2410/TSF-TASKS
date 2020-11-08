@@ -1,5 +1,5 @@
 # TSF-TASKS
-The-Spark-Foundation-GRIP ***Data Science and Analytics Internship Tasks***
+The-Spark-Foundation-GRIPNOV20 ***Data Science and Analytics Internship Tasks***
 
 > This repository consist of the tasks given during my internship at The Sparks Foundation.
 
